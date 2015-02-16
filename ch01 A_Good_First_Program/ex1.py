@@ -1,5 +1,5 @@
 # -*- coding:utf-8 -*-
-__author__ = 'Ethan'
+# __author__ = 'Ethan'
 
 print "Hello World!"
 print "Hello Again"
